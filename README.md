@@ -19,7 +19,7 @@ Sou formado em Tecnologia da Informação pela FMU e atualmente curso pós-gradu
     alt="AWS"
     title="AWS" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
 
@@ -28,7 +28,7 @@ Sou formado em Tecnologia da Informação pela FMU e atualmente curso pós-gradu
     alt="SQL"
     title="SQL" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 
@@ -37,7 +37,7 @@ Sou formado em Tecnologia da Informação pela FMU e atualmente curso pós-gradu
     alt="Python"
     title="Python" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" 
 />
 
@@ -46,7 +46,7 @@ Sou formado em Tecnologia da Informação pela FMU e atualmente curso pós-gradu
     alt="nodejs"
     title="nodejs" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
@@ -55,7 +55,7 @@ Sou formado em Tecnologia da Informação pela FMU e atualmente curso pós-gradu
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
@@ -64,6 +64,6 @@ Sou formado em Tecnologia da Informação pela FMU e atualmente curso pós-gradu
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
