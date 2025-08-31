@@ -2,7 +2,7 @@
 
 **`Analista De Dados`**
 
-"[Linkedin](https://www.linkedin.com/in/bruno-souza-b38a3b20b/)"
+"[LinkedIn](https://www.linkedin.com/in/bruno-souza-b38a3b20b/)"
 
 
 Bruno Barros de Souza
